@@ -1,1 +1,1 @@
-export const API = "http://localhost:6743"
+export const API = "https://guvi-intern.vercel.app"
